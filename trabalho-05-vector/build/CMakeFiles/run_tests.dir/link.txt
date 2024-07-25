@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/main.cpp.o CMakeFiles/run_tests.dir/iterator_tests.cpp.o -o run_tests  libTM.a 

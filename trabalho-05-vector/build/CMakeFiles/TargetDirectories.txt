@@ -1,0 +1,4 @@
+/mnt/c/users/novo/cpp_projects/selan/ryan-david-vector/build/CMakeFiles/TM.dir
+/mnt/c/users/novo/cpp_projects/selan/ryan-david-vector/build/CMakeFiles/run_tests.dir
+/mnt/c/users/novo/cpp_projects/selan/ryan-david-vector/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/novo/cpp_projects/selan/ryan-david-vector/build/CMakeFiles/rebuild_cache.dir
